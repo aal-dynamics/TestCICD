@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "TimeTracking"
+                    },
+                    {
+                        "path":  "TimeTracking.Test"
                     }
                 ],
     "settings":  {
